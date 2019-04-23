@@ -1,0 +1,27 @@
+p 
+{
+    width: 80% !important;
+    text-align: justify;
+    }
+
+hr {
+    width: 20%;
+    text-align: left;
+    margin-left: 0;
+    border:1px aqua solid;
+}
+
+.class-blue {
+    color: aqua;
+}
+#articles {
+    background-color: aquamarine;
+}
+#contacts{
+    margin-bottom: 32px;
+    background-color: black;
+}
+#contacts p{
+    text-align: center;
+    color: blanchedalmond;
+}
